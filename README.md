@@ -19,7 +19,7 @@
 ![:（](https://github.com/XuDaHaoRen/img-folder/blob/master/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/%E4%BA%8C%E5%80%BC%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86.png)<br>
 
 
-不显示图片请进博客链接：
+不显示图片请进博客链接：https://blog.csdn.net/github_36731706/article/details/104443272
 
 如何解决 github 不显示图片：https://blog.csdn.net/weixin_42128813/article/details/102915578
 
